@@ -157,7 +157,7 @@ button{
 
 /* Completed */
 
-#completed-label {
+#completed-tasks .task:nth-child(even) {
   text-decoration: line-through;
   color: #888;
 }
